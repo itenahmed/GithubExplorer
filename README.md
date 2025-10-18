@@ -8,7 +8,7 @@ You can also write personal notes for each user or repository (saved locally on 
 - Search GitHub users and see their public repos
 - Add notes for users and repositories
 - Compare two GitHub users
-- Generate a short AI summary for any user (optional)
+- Generate a short AI summary for any user
 
 ## How to run
 
