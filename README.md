@@ -20,5 +20,3 @@ You can also write personal notes for each user or repository (saved locally on 
 
 3. Open it in your browser  
    `http://localhost:3000`
-
-If you want to use the AI summary feature, create a file called `.env.local` in the main folder and add:
